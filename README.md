@@ -1,10 +1,19 @@
-# The Box
-### A Javascript browser plugin that glitches a whole website into a single square box.
+<img href="imgs/Malevich cover final.jpg">
+# Browser-based Malevich
+### Creative Javascript Plugins for Firefox
 
-Webpages are just squares upon squares upon squares computationally seperated.
-Inspiration taken from [Malevich](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.abc.net.au%2Freslib%2F200707%2Fr159647_582595.jpg&f=1&nofb=1) ("the visual phenomena of the objective world are, in themselves, meaningless; the significant thing is feeling, as such, quite apart from the environment in which it is called forth") and Rafael Rozendaal's [Abstract Browsing](https://www.newrafael.com/new-website-chrome-plugin-abstract-browsing-net) 
+'Browser-based Malevich' is a triptych of Firefox browser-plugins from [internet teapot](https://www.internetteapot.com) that warp and distort 
+any webpage you open into a digital approximation of one of the three thematically-related [Suprematism](https://en.wikipedia.org/wiki/Suprematism) paintings 
+by early 20th-century avant-garde Russian artist Kazimir Malevich: Black Square (1913), Black Circle (1915), and Black Cross (1915).
 
-<img src="/demo_gif.gif">
+<img href="imgs/4.browser-based-malevich-800px.gif">
 
-Feel free to contribute as I've found some sites it doesn't work that well on, and perhaps the animation can be smoother. Maybe you can make an improvement.
+Browser-based Malevich is more than just a digital facsimile of a 20th century canvas-based painting, however. It takes inspiration more from the browser-based art of [Rafaël Rozendaal](https://www.newrafael.com/) in that it functions as [software art](https://monoskop.org/Software_art) (often also called artistic software, critical software, software-based art).
 
+Each of the JavaScript plugins runs through a unique set of functions that identify a webpage’s DOM elements one by one and computationally alters their CSS (Cascading Style Sheets) properties with brute force (!important) until the whole page is a digital approximation of the pure visual abstraction corresponding to its respective Malevich painting.  
+
+Browser-based Malevich digitally literalizes Suprematism’s non-objective cultural iconography, an iconography fit for a world in which cultural materials are increasingly mediated by abstract ones and zeros, served up to as bright shining pixels representing the world outside of our screens.
+
+###Contribute
+Given the divergent markup conventions such as semantic HTML or dynamic frameworks for DOM insertion, these plugins don’t work perfectly on all pages. 
+Any suggestions or contributions to improve the plugins are welcome. 
