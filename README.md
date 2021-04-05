@@ -1,10 +1,12 @@
-<img href="imgs/Malevich cover final.jpg">
+![Cover](https://raw.githubusercontent.com/waodendaal/Browser-based-Malevich/master/imgs/Malevich%20cover%20final.jpg)
 # Browser-based Malevich
 ### Creative Javascript Plugins for Firefox
 
 'Browser-based Malevich' is a triptych of Firefox browser-plugins from [internet teapot](https://www.internetteapot.com) that warp and distort 
 any webpage you open into a digital approximation of one of the three thematically-related [Suprematism](https://en.wikipedia.org/wiki/Suprematism) paintings 
 by early 20th-century avant-garde Russian artist Kazimir Malevich: Black Square (1913), Black Circle (1915), and Black Cross (1915).
+
+![Extension gif](https://raw.githubusercontent.com/waodendaal/Browser-based-Malevich/master/imgs/4.browser-based-malevich-800px.gif)
 
 <img href="imgs/4.browser-based-malevich-800px.gif">
 
@@ -14,6 +16,6 @@ Each of the JavaScript plugins runs through a unique set of functions that ident
 
 Browser-based Malevich digitally literalizes Suprematism’s non-objective cultural iconography, an iconography fit for a world in which cultural materials are increasingly mediated by abstract ones and zeros, served up to as bright shining pixels representing the world outside of our screens.
 
-###Contribute
+### Contribute
 Given the divergent markup conventions such as semantic HTML or dynamic frameworks for DOM insertion, these plugins don’t work perfectly on all pages. 
 Any suggestions or contributions to improve the plugins are welcome. 
