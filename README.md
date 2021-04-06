@@ -8,7 +8,10 @@ by early 20th-century avant-garde Russian artist Kazimir Malevich: Black Square 
 
 ![Extension gif](https://raw.githubusercontent.com/waodendaal/Browser-based-Malevich/master/imgs/4.browser-based-malevich-800px.gif)
 
-<img href="imgs/4.browser-based-malevich-800px.gif">
+[Install Black Square on Firefox](https://addons.mozilla.org/en-US/firefox/addon/black-square/)
+[Install Black Cross on Firefox](https://addons.mozilla.org/en-US/firefox/addon/black-cross-malevich/)
+[Install Black Circle on Firefox](https://addons.mozilla.org/en-US/firefox/addon/black-circle-malevich/)
+
 
 Browser-based Malevich is more than just a digital facsimile of a 20th century canvas-based painting, however. It takes inspiration more from the browser-based art of [Rafaël Rozendaal](https://www.newrafael.com/) in that it functions as [software art](https://monoskop.org/Software_art) (often also called artistic software, critical software, software-based art).
 
