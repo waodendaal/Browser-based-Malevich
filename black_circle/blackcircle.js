@@ -1,7 +1,7 @@
 // blackcircle.js is part of a triptych of Firefox browser-plugins called Browser-based Malevich
 // by Adriaan Odendaal and internet teapot (www.internetteapot.com) 
 // Github: https://github.com/waodendaal/Browser-based_Malevich
-// Medium post: https://medium.com/internet-teapot 
+// Medium post: https://medium.com/internet-teapot/browser-based-malevich-what-the-minimalism-of-modernism-can-tell-us-about-digital-culture-b4ba1a8dcf89 
 //This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 

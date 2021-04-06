@@ -19,6 +19,8 @@ Each of the JavaScript plugins runs through a unique set of functions that ident
 
 Browser-based Malevich digitally literalizes Suprematism’s non-objective cultural iconography, an iconography fit for a world in which cultural materials are increasingly mediated by abstract ones and zeros, served up to as bright shining pixels representing the world outside of our screens.
 
+**Read what this extension is all about on Medium: [Browser-based Malevich: What the Minimalism of Modernism Can Tell Us About Digital Culture](https://medium.com/internet-teapot/browser-based-malevich-what-the-minimalism-of-modernism-can-tell-us-about-digital-culture-b4ba1a8dcf89)**
+
 ### Contribute
 Given the divergent markup conventions such as semantic HTML or dynamic frameworks for DOM insertion, these plugins don’t work perfectly on all pages. 
 Any suggestions or contributions to improve the plugins are welcome. 
