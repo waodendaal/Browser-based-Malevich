@@ -6,7 +6,7 @@
 any webpage you open into a digital approximation of one of the three thematically-related [Suprematism](https://en.wikipedia.org/wiki/Suprematism) paintings 
 by early 20th-century avant-garde Russian artist Kazimir Malevich: Black Square (1913), Black Circle (1915), and Black Cross (1915).
 
-*[Extension gif](https://raw.githubusercontent.com/waodendaal/Browser-based-Malevich/master/imgs/4.browser-based-malevich-800px.gif)*
+![Extension gif](https://raw.githubusercontent.com/waodendaal/Browser-based-Malevich/master/imgs/4.browser-based-malevich-800px.gif)
 
 *[Install Black Square on Firefox](https://addons.mozilla.org/en-US/firefox/addon/black-square/)*
 
